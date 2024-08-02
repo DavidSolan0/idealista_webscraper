@@ -2,6 +2,12 @@
 
 Este proyecto en Python realiza el scraping de pisos publicados en la página de Idealista. El objetivo es extraer información relevante sobre anuncios de propiedades para su análisis y procesamiento. Las siguientes imagenes describen de manera gráfica la información de interés a screapear.
 
+![image](https://github.com/user-attachments/assets/6073097b-104d-445e-a0e3-8df294100fd1)
+![image](https://github.com/user-attachments/assets/5be4adff-da49-4c21-b694-2cef0e58b8c1)
+![image](https://github.com/user-attachments/assets/230886e7-675f-4512-88bf-b4591b5ac145)
+
+
+
 # Proyecto de Python
 
 Este proyecto requiere un entorno virtual de Python para garantizar que todas las dependencias se instalen y se ejecuten correctamente. A continuación se detallan los pasos para configurar el entorno y ejecutar el proyecto.
