@@ -16,7 +16,7 @@ Antes de comenzar, asegúrate de tener Python instalado en tu sistema. Puedes de
 
     ```bash
     git clone https://github.com/DavidSolan0/idealista_webscraper
-    cd tu_repositorio
+    cd idealista_webscraper
     ```
 
 2. **Crea un entorno virtual**:
